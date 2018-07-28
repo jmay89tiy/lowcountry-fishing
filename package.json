@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amast09/lowcountry-fishing/issues"
   },
-  "homepage": "https://github.com/amast09/lowcountry-fishing#readme"
+  "homepage": "https://github.com/amast09/lowcountry-fishing#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
