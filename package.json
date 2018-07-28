@@ -1,0 +1,19 @@
+{
+  "name": "lowcountry-fishing",
+  "version": "1.0.0",
+  "description": "Lowcountry fishing guides.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amast09/lowcountry-fishing.git"
+  },
+  "author": "Aaron Mast & Josh May",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amast09/lowcountry-fishing/issues"
+  },
+  "homepage": "https://github.com/amast09/lowcountry-fishing#readme"
+}
